@@ -1,6 +1,6 @@
 # Bianca Formiga
 
-Olá! 👋 Sou Bianca Formiga, uma entusiasta em transição de carreira para a área de tecnologia. Atualmente, estou cursando o 3º período de Análise e Desenvolvimento de Sistemas, onde tenho explorado minha paixão por resolver problemas e criar soluções inovadoras por meio do desenvolvimento de software.
+Olá! 👋 Sou Bianca Formiga, uma entusiasta em transição de carreira para a área de tecnologia. Concluí o curso de Análise e Desenvolvimento de Sistemas, onde tenho explorado minha paixão por resolver problemas e criar soluções inovadoras por meio do desenvolvimento de software.
 
 Anteriormente graduada em Direito, decidi seguir meu interesse em tecnologia e mergulhar no mundo do desenvolvimento. Estou animada para expandir meu conhecimento em linguagens de programação, frameworks e ferramentas de desenvolvimento, enquanto contribuo para projetos significativos e aprendo com a comunidade de desenvolvedores.
 
